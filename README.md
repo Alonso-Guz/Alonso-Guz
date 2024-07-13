@@ -69,7 +69,7 @@
       alt="css3"/>
   </a>
   <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank"> 
-    <img src="https://learn.microsoft.com/es-es/dotnet/csharp/"
+    <img src="	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"
       alt="c#"/>
   </a>
 </p>
