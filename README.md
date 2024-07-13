@@ -40,14 +40,14 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 ## 🛠️ My Skills
-  <a href="" target="_blank">
-	<img src="" 
-	  alt="">
-  </a>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
 <p>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
+	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" 
+	  alt="JavaScript">
+  </a>
   <a href="https://www.python.org/" target="_blank">
 	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" 
 	  alt="python">
