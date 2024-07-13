@@ -14,7 +14,7 @@
 
 - :school: I am a `Junior` at Faculty of Computers & Informatics.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces` en los lenguajes que domino.
+- :computer: I am a competitive programmer at `Codeforces` programmer in the languages ​​I master.
 - :student: I’m currently learning `C++`.
 - :nerd_face: Always `learning new things`.
 <!--- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
