@@ -47,7 +47,7 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
-<p align="center">
+<p>
   <a href="https://www.python.org/" target="_blank">
 	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" 
 	  alt="python">
@@ -55,10 +55,6 @@
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
       alt="java"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-      alt="javascript"/> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
@@ -75,41 +71,37 @@
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend
-<p align="center">
-      <a href="https://getbootstrap.com" target="_blank">
+<p>
+  <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
   </a>
-  <a href="https://babeljs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/> 
+  <a href="https://dotnet.microsoft.com/es-es/download/dotnet-framework/net45" target="_blank">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" 
+      alt=".net"/> 
   </a>
-  <a href="https://bulma.io/" target="_blank">
-    <img src="https://img.shields.io/badge/bulma-00D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white"
-      alt="bulma"/>
+  <a href="https://nodejs.org/en" target="_blank">
+    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+      alt="nodejs"/>
   </a>
-  <a href="https://www.gatsbyjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/gatsbyjs-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby" />
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" 
+	alt="sprint-boot" />
   </a>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
   </a>
-  <a href="https://redux.js.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
-  </a> 
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
-  </a>
-  <a href="https://webpack.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
-      alt="webpack"/>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"
+      alt="vitejs"/>
   </a>
 </p>
 
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Backend
  
-<p align="center">
+<p>
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
@@ -143,7 +135,7 @@
 <p>
   <a href="https://www.microsoft.com/es-es/sql-server/developer-tools" target"_blank">
 	  <img src="" 
-		  alt="sqlserver">
+		  alt="sql-server">
   </a>
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
@@ -161,7 +153,7 @@
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Version Control
  
-<p align="center">
+<p>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
