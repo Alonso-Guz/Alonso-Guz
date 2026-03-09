@@ -7,7 +7,7 @@
 
 <br>
 
-- :school: I am a `Junior` at Faculty of Computers & Informatics.
+- :school: I am `student` at Faculty of Computers & Informatics.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces` programmer in the languages ​​I master.
 - :student: I’m currently learning `C++`.
