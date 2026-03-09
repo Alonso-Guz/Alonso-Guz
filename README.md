@@ -7,11 +7,11 @@
 
 <br>
 
-- :school: I am `student` at Faculty of Computers & Informatics.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces` programmer in the languages ​​I master.
-- :student: I’m currently learning `C++`.
-- :nerd_face: Always `learning new things`.
+- :school: Computer Science and Information Technology `student`.
+- :technologist: Passionate about using software to solve real-world `Problem`.
+- :computer: Competitive programmer on `Codeforces`.
+- :student: Currently learning `Python`.
+- :nerd_face: Always learning new technologies and `improving my skills`.
 
 <br>
 
