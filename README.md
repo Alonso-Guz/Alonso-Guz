@@ -69,14 +69,6 @@
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
   </a>
-  <a href="https://vitejs.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"
-      alt="vitejs"/>
-  </a>
-  <a href="https://hibernate.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" 
-      alt="hibernate " /> 
-  </a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Data Base
